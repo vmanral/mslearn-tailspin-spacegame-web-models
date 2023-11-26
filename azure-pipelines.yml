@@ -1,5 +1,4 @@
 pool:
-  name: 'Azure Pipelines'
   vmImage: 'ubuntu-20.04'
 
 variables:
